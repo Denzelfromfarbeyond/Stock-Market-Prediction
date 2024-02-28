@@ -1,0 +1,11 @@
+hopsworks
+joblib
+scikit-learn
+seaborn
+dataframe-image
+modal-client
+gradio
+yfinance
+matplotlib
+google
+tensorflow
